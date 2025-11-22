@@ -1,7 +1,6 @@
 # flix-movie-recommendation-site-
-Built a React-based movie recommendation website that delivers a Netflix-like browsing experience using real-time data from the TMDB API.Designed a clean, responsive UI with dynamic sections like Trending Movies, Top Rated, Genre-Based categories, and a powerful Search feature.Implemented Movie Details Page showing description, ratings, release info, and similar movie recommendations.
+Flix is a modern and responsive movie recommendation website designed to help users quickly discover trending, top-rated, and genre-based movies. Powered by the TMDB API, the platform provides real-time movie data, an elegant UI, and a seamless browsing experience similar to an OTT platform. Users can search for movies, explore categories, view detailed descriptions, and receive suggestions based on what they are watching.
 
-Structured the frontend using reusable components, React Router for smooth navigation, and Axios for efficient API fetching.Improved user engagement with real-time recommendations, media-rich cards, and fast-loading UI.Planned integration of user authentication, protected routes, and a personalized Watchlist using Firebase/JWT.
-Built the project individually, handling UI/UX, component architecture, API integration, state management, and deployment.
+Built using React, the app follows a clean component-based architecture with smooth navigation through React Router and efficient API handling via Axios. The site is optimized for both mobile and desktop screens, ensuring a fast and intuitive user experience. The project reflects strong frontend engineering skills, API integration, and UI/UX planning.
 
-Strengthened skills in API integration, asynchronous programming, state management, and frontend architecture.Demonstrated ability to build a production-ready, scalable, and visually appealing web application end-to-end.
+Planned future enhancements include user authentication, personal watchlists, improved recommendation logic, and trailer support—turning Flix into a more personalized movie discovery platform. 
