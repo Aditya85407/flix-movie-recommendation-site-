@@ -347,7 +347,7 @@ button:hover {
         font-size: 1.5em;
     }
 
-    .movie-quote p, .director-spotlight p, .movie-recommendations p {
+    .quote p, .director p, .movie-recommendations p {
         font-size: 1em;
     }
 }
